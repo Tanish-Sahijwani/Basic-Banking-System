@@ -1,0 +1,92 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: black;
+    height: auto;
+    width: 100%;
+    margin: 0;
+}
+
+.content {
+    min-height: 600px;
+}
+
+.button {
+    color: #fff;
+    margin: 10px;
+    background-color: black;
+    border-color: #ac2925;
+    box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
+    padding: 10px 16px;
+    font-size: 18px;
+    border-radius: 6px;
+}
+
+.button:hover {
+    color: black;
+    margin: 10px;
+    background-color: white;
+    box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
+    padding: 10px 16px;
+    font-size: 18px;
+    border-radius: 6px;
+}
+
+.columnf {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+.row_style {
+    margin-top: 70px;
+}
+
+.orangeGradient {
+    background-image: linear-gradient(to bottom right, rgb(250, 124, 20), yellow);
+}
+
+.myBank {
+    margin: auto;
+    font-size: 45px;
+}
+
+h1 {
+    margin-top: 40vh;
+    text-align: center;
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 6em;
+}
+
+select {
+    width: 270px;
+    height: 35px;
+    margin-right: 35px;
+}
+
+.redText {
+    color: red;
+}
+
+.para1 {
+    text-align: center;
+    font-size: 2.3em;
+}
+
+.container {
+    width: 60vw;
+    margin: auto;
+}
+
+.redButton {
+    background-color: red;
+    color: white;
+}
+
+.whiteText {
+    color: white;
+}
