@@ -72,7 +72,7 @@ $name=$_SESSION["name"] ;
                 </div>
 
                 <div class="form-group">
-                    <button id="transfer" type="submit" name="submit" class="btn redButton form-control">Trans</button>
+                    <button id="transfer" type="submit" name="submit" class="btn redButton form-control">Transfer</button>
                 </div>
             </form>
         </div>
